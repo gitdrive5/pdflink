@@ -1,5 +1,5 @@
  // Initializing the variables
-let url = 'link.json';
+let url = '/link.json';
 
 
 // Fetch Movie
