@@ -1,5 +1,5 @@
  // Initializing the variables
-let url = 'https://raw.githubusercontent.com/BUDDY1609/Link-Search-site/main/link.json';
+let url = 'link.json';
 
 
 // Fetch Movie
