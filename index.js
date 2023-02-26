@@ -1,5 +1,5 @@
  // Initializing the variables
-let url = 'https://raw.githubusercontent.com/gitdrive5/pdflink/main/link.json';
+let url = 'https://raw.githubusercontent.com/BUDDY1609/Link-Search-site/main/link.json';
 
 
 // Fetch Movie
